@@ -1,0 +1,17 @@
+.App {
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+}
+
+input {
+  padding: 0.5rem;
+  width: 70%;
+}
+
+button {
+  padding: 0.5rem;
+  margin-left: 0.5rem;
+}
